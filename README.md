@@ -1,2 +1,2 @@
 # hello-world
-This where it all begins. 
+This is where it all began. 
